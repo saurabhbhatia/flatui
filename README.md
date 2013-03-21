@@ -18,7 +18,22 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After bundling the gem in your rails app, add your flat-ui css to your application.css and delete scaffold.scss if any.
+  
+    *= requrie bootstrap
+    *= require flat-ui
+
+and the following js to your application.js
+    //= require flat-ui-app
+    //= require bootstrap-tooltip
+    //= require custom_radio     
+    //= require html5shiv
+    //= require jquery.dropkick-1.0.0  
+    //= require jquery.tagsinput   
+    //= require custom_checkbox_and_radio  
+    //= require icon-font-ie7  
+    //= require jquery.placeholder
+    //= require lte-ie7-24
 
 ## Contributing
 
@@ -27,3 +42,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## To-do
+
+1. Add fonts 
+2. Add generator for setting up css and js in the respective paths
+3. Add generator for views
