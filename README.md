@@ -1,6 +1,6 @@
 # Flatui
 
-TODO: Write a gem description
+A Simple gem for bootstrap based flat-ui (http://designmodo.com/flat-free/) to be made available in asset pipeline
 
 ## Installation
 
@@ -49,3 +49,7 @@ and the following js to your application.js
 1. Add fonts 
 2. Add generator for setting up css and js in the respective paths
 3. Add generator for views
+
+## License 
+
+MIT See License file
