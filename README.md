@@ -24,6 +24,7 @@ After bundling the gem in your rails app, add your flat-ui css to your applicati
     *= require flat-ui
 
 and the following js to your application.js
+
     //= require flat-ui-app
     //= require bootstrap-tooltip
     //= require custom_radio     
