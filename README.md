@@ -53,3 +53,7 @@ and the following js to your application.js
 ## License 
 
 MIT See License file
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/saurabhbhatia/flatui/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
